@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "834858901583",
+    "firebase_url": "https://go-dutch-32cf8.firebaseio.com",
+    "project_id": "go-dutch-32cf8",
+    "storage_bucket": "go-dutch-32cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834858901583:android:f9e7702cffcbf489",
+        "android_client_info": {
+          "package_name": "com.example.khushbhu.go_dutch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834858901583-hbaaa3lqiqudqsvi9mpeuqlctehsqph6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khushbhu.go_dutch",
+            "certificate_hash": "9de72dd87d96c72f5214e37b036044844927de40"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MHKo7GB8dTrSRquaOVNgNqeckSYeKG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834858901583-s846vtih8mqsvo7cnj86tqebf0a52qdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
